@@ -8,4 +8,9 @@
 A detailed introduction of this software can be found in motifeR_supplementary.pdf file.
 
 ## Workflow
-<img src="Figure1.png" align="center" height="600" width="900"/>
+<img src="Figure1.png" align="center" height="500" width="900"/>
+
+
+## Contact
+You could push an issue on this github. And optionally, please feel free to sent me an e-mail if you have any question or find a bug about this tool. Thank you^_^
+Email: wssdandan2009@outlook.com
