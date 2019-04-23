@@ -8,4 +8,4 @@
 A detailed introduction of this software can be found in motifeR_supplementary.pdf file.
 
 ## Workflow
-<img src="Figure1.tiff" align="center" height="600" width="800"/>
+<img src="Figure1.png" align="center" height="600" width="900"/>
