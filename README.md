@@ -1,6 +1,11 @@
 # motifeR<img src="motifeRlogo.png" align="right" height="200" width="200"/>
 #### An integrated web software for identification and visualization of protein post-translational modification motifs
 
+## Citation
+If you use this software to analyze your data, please cite our paper like this:
+
+Shisheng Wang, Yue Cai, Jingqiu Cheng, Wenxue Li, Yansheng Liu and Hao Yang. "motifeR: An Integrated Web Software for Identification and Visualization of Protein Post‐Translational Modification Motifs." Proteomics (2019): 201900245. ([DOI: 10.1002/pmic.201900245](https://doi.org/10.1002/pmic.201900245)).
+
 ## Brief Description
 **<font size='5'> motifeR </font>** is a free, user-friendly and comprehensive web software, can provide three main functions (sequence pre-alignment, motif discovery, kinase-substrate analysis) to help users find motifs of a protein or polypeptide and process kinase-substrate analysis for human data set subsequently. This software is available here: [https://www.omicsolution.org/wukong/motifeR](https://www.omicsolution.org/wukong/motifeR).
 
